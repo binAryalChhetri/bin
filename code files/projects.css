@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #fae5ec;
+}
+
+.projects-container {
+  width: 90%;
+  margin: 0em auto;
+}
+
+.projects h1 {
+  margin-top: 1em;
+
+  font-family: "lato", sans-serif;
+  text-align: center;
+  font-size: 2.5rem;
+  letter-spacing: 5px;
+  color: #fd735a;
+}
+
+hr {
+  margin: 0em auto;
+  width: 300px;
+  background-color: white;
+  border: none;
+  height: 5px;
+  border-radius: 50px;
+}
+
+.images {
+  margin-top: 3em;
+}
+
+.projects-container img {
+  box-shadow: 0px 0px 20px 4px rgba(0, 0, 0, 0.486);
+  width: 100%;
+  margin: 2em 0em;
+}
